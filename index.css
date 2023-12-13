@@ -1,0 +1,13 @@
+.log-in-section{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.log-in-box{
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+}
